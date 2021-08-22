@@ -10,6 +10,8 @@ function App() {
   return (
     <div className="App">
       <h1>welcome vivaha</h1>
+      <h1>welcome Macbook</h1>
+
       <Registration />
     </div>
   );
